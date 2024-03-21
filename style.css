@@ -1,0 +1,76 @@
+/* body {
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+p {
+    color: white;
+   
+    
+}
+
+.motivation-img {
+  border: 5px solid yellowgreen;
+  width: 100%;
+}
+
+
+body {
+    background-color: black;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    margin-top: 50px;
+    
+
+}
+.motivation-img {
+    width: 100%;
+    
+    border: 5px solid yellowgreen;
+
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+*/
+body {
+    background-color: black;
+}
+.motivation-img {
+    width: 100%;
+    border: 5px solid yellowgreen;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
